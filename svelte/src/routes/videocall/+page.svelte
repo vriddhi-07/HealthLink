@@ -1,0 +1,1 @@
+<!-- Template for hosting video calls between two parties. -->
